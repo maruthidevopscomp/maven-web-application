@@ -98,13 +98,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Releases Nexus Repository</name>
-	      <url>http://43.204.149.146:9741/repository/nexusrepo-release/</url>
+	      <url>http://43.204.149.146:9741/repository/jankins-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Snapshot Nexus Repository </name>
-	      <url>http://43.204.149.146:9741/repository/nexusrepo-snapshot/</url>
+	      <url>http://43.204.149.146:9741/repository/jankins-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
