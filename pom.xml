@@ -98,13 +98,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Releases Nexus Repository</name>
-	      <url>http://65.2.121.12:9741/repository/pipeline-release/</url>
+	      <url>http://65.2.121.12:9741/repository/king-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Snapshot Nexus Repository </name>
-	      <url>http://65.2.121.12:9741/repository/pipeline2-snapshat/</url>
+	      <url>http://65.2.121.12:9741/repository/king-sapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
